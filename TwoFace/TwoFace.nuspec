@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Tagshelf.TwoFace</id>
+    <version>1.0.0.0</version>
+    <title>Tagshelf.TwoFace</title>
+    <authors>Tagshelf SRL</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/tagshelfsrl/2face-api</projectUrl>
+    <iconUrl>https://static.tagshelf.io/assets/images/tagshelf.png</iconUrl>
+    <description>2Face is a two-factor authentication service based on face verification.</description>
+    <releaseNotes>First release of 2FACE Csharp wrapper.</releaseNotes>
+    <copyright>Tagshelf SRL Copyright ©  2021</copyright>
+    <tags>2FACE Tagshelf</tags>
+  </metadata>
+</package>
